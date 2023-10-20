@@ -1,0 +1,8 @@
+*.DS_Store
+*.python-version
+*.jpeg
+*.ini
+*poetry.lock
+package-lock.json
+*.pdf
+*/node_modules
